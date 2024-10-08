@@ -1,0 +1,303 @@
+body{
+    padding: 0;
+    margin: 0; 
+}
+/* ========= the uper body with shadow============= */
+.uper{
+    width: 817px;
+    height: 500px;
+    background-color: rgb(245, 245, 245);
+    margin-top: 8px;
+    margin-left: 217px;
+    margin-right: 20px;
+    margin-bottom: 66px;
+    box-shadow: 0px 0px 10px rgb(70, 70, 70);
+    padding-top: 53px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    
+}
+/* ========= the uper body with shadow============= */
+
+/* ========= first creatw and  box ============= */
+.creatAnd{
+    height: 220px;
+    width: 120px;
+    background-color: hsl(31, 66%, 93%);
+    border-radius: 4px;
+    padding-top: 40px;
+    /* padding-bottom: 0px; */
+    padding-left: 15px;
+    padding-right: 10px;
+    
+    
+ 
+  
+}
+.mainTxt{
+    font-size: 20px;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 600;
+    margin: 0;
+}
+.quicker{
+    color: rgb(164, 8, 164);
+    font-style: italic;
+    font-size: 22px;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 600;
+    margin: 0;
+    
+}
+.createPost{
+    height: 52px;
+    width: 99px;
+    padding-top: 10px;
+    padding-left: 8px;
+}
+/* ========= first creatw and  box ============= */
+
+/* ========= seconf Social Media 10X  box ============= */
+
+.sicialMedia{
+    background-color: hsl(256, 67%, 59%);
+    /* font-size: 28px; */
+    color: white; 
+    height: 200px;
+    width: 413px;
+    /* text-align: center; */
+    border-radius: 4px;
+    margin-top: -261px;
+    margin-left: 175px;
+    /* white-space: nowrap; */
+    /* text-indent: 50px; */
+    text-align: center;
+    line-height: 0em;
+    /* display: flex;
+    justify-content: space-between; */
+    font-family: "DM Sans", sans-serif;
+    font-weight: 600;
+    
+    
+    
+
+    
+
+}
+.main2{
+    /* color: white; */
+    font-size: 30px;
+    padding-top: 30px;
+    display: inline-block;
+    
+    
+   
+}
+.main3{
+    font-size: 28px;
+    margin: 0;
+    padding: 0;
+    /* display: inline-block; */
+    
+}
+.h1{
+    color: hsl(39, 100%, 71%);
+    display: inline-block;
+    font-weight: lighter;
+    font-size:x-large;
+}
+.star{
+    height: 20px;
+    width: 110px;
+    margin: 25px;
+}
+.down{
+    margin: -13px;
+    padding: 0;
+    font-weight: lighter;
+}
+/* ========= seconf Social Media 10X  box ============= */
+
+/* ========== schedule to social================ */
+
+.schedual{
+    height: 410px;
+    width: 180px;
+    background-color:  hsl(254, 88%, 90%);
+    font-family: "DM Sans", sans-serif;
+    font-weight: 600;
+    margin-top: -204px;
+    margin-left: 620px;
+    border-radius: 3px;
+    overflow: hidden;  /*for crop photo*/
+    
+}
+.scUp{
+    font-size: 20px;
+    text-align: left;
+    padding-top: 15px;
+    padding-left: 10px;
+    
+   
+}
+.schedulePhoto{
+    height: 170px;
+    width: 212px;
+    overflow: hidden; /* Hide overflow */
+    padding-left: 20px;
+    
+    height: auto;
+}
+.scDown{
+    font-size: 13px;
+    text-align:left;
+    padding-bottom: 15px;
+    padding-left: 10px;
+}
+/* ========== schedule to social================ */
+/* ========= write your ============================ */
+
+.write{
+    height: 270px;
+    width: 139px;
+    background-color: hsl(39, 100%, 71%);
+    border-radius: 3px;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 600;
+    margin-top: -135px;
+    margin-left: 3px;
+    text-align: left;
+}
+.uptxt{
+    font-size: 19px;
+    padding-top: 9px;
+    padding-left: 10px;
+    padding-right: 5px;
+}
+.wAi{
+    width: 115px;
+    height: 115px;
+    display: block;
+    margin: 0 auto;
+}
+/* ========= write your ============================ */
+/* ==========manage multiple=============== */
+.manage{
+    height: 170px;
+    width: 185px;
+    background-color: hsl(0, 100%, 100%);
+    border-radius: 3px;
+    margin-top: -325px;
+    margin-left: 180px;
+    overflow: hidden;  /*for crop photo*/
+}
+.social{
+    height: 40px;
+    width: 190px;
+    overflow: hidden;
+    padding-top: 16px;
+    padding-left: 10px;
+
+}
+.mTxt{
+    font-size: 19px;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 600;
+    text-align: left;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    line-height: 1em; /*height between lines*/
+}
+/* ==========manage multiple=============== */
+/* ==========Maintain a =============== */
+.persent{
+    height: 170px;
+    width: 185px;
+    background-color: hsl(39, 100%, 71%);
+    border-radius: 3px;
+    margin-top: -170px;
+    margin-left: 400px;
+    overflow: hidden;
+
+}
+.maTxt{
+    font-size: 19px;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 600;
+    text-align: left;
+    padding-left: 10px;
+    line-height: 1em;
+    
+}
+.aug{
+    height: 130px;
+    width: 140px;
+    overflow: hidden;
+    padding-left: 23px;
+    
+    
+    
+    
+
+}
+/* ==========Maintain a =============== */
+/* ==========Persentage and emojis =============== */
+.last2nd{
+    height: 130px;
+    width: 185px;
+    background-color: hsl(0, 100%, 100%);
+    border-radius: 3px;
+    margin-top: 0px;
+    
+    margin-left: 180px;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 600;
+    /* line-height: 1em; */
+}
+.pTxt{
+    font-size: xx-large;
+    padding-left: 10px;
+    padding-top: 3px;
+    margin-bottom: 0px;
+    
+}
+.pTxt2{
+    font-size:x-small;
+    padding-left: 10px;
+    padding-bottom: -1px;
+    line-height: 0%;
+}
+.emojis{
+    height: 40px;
+    width: 110px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+/* ==========Persentage and emojis =============== */
+/* ==========Groww =============== */
+
+.grow{
+    height: 130px;
+    width: 406px;
+    background-color: hsl(256, 67%, 59%);
+    border-radius: 3px;
+    display: flex;
+    margin-top: -129px;
+    margin-left: 400px;
+}
+.growPic{
+    height: 100px;
+    width: 110px;
+    padding-top: 15px;
+    padding-left: 20px;
+}
+.gTxt{
+    font-family: "DM Sans", sans-serif;
+    font-weight: 300;
+    color: white;
+    font-size:medium;
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-right: 90px;
+} 
